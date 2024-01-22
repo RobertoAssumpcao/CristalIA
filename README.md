@@ -26,6 +26,7 @@ Esta aplicação de console foi desenvolvida como parte de um projeto de aprendi
 ### Pre requisitos
 
 * [SDK .NET 8](https://dotnet.microsoft.com/pt-br/download/dotnet/8.0)
+* [OpenAI 1.10.0](https://platform.openai.com/docs/overview)
 
 ## Como usar
 
